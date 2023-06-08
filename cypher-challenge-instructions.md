@@ -3,7 +3,7 @@
 Once getting into teams, students will decide on a sentence containing a “fruit”
 "Bananas are a mid-tier fruit" 
 
-The team will then encrypt the fruit in their sentence using the Atbash Cipher
+The team will then encrypt the fruit in their sentence using the [Atbash Cipher](atbash_cypher.pdf)
 "Yzmzmzh are a mid-tier fruit"
 
 |A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z|
@@ -13,7 +13,7 @@ The team will then encrypt the fruit in their sentence using the Atbash Cipher
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 
 
-Teams will then encrypt their own unique KEY using the Affine #1 Cipher
+Teams will then encrypt their own unique KEY using the [Affine #1 Cipher](affine.pdf)
 - Example Key: CYBER
 - Affine Cypher Process: CYBER > 2, 24, 1, 4, 17
 - +5 to all numbers > 7, 3 (24+5=29, 29-26=3), 6, 9, 22
