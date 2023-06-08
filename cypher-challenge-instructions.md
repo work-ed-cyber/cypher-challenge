@@ -26,7 +26,7 @@ Teams will then encrypt their own unique KEY using the Affine #1 Cipher
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 | | | | | | | | | | |0|1|2|3|4|5|6|7|8|9|)|1|2|3|4|5|
 
-Teams will use that KEY to encrypt their complete sentence using the Mono-Alphabet Cipher #2
+Teams will use that KEY to encrypt their complete sentence using the [Mono-Alphabet Cipher #2](mixed.pdf)
 
 Example with Cyber Key:
 
